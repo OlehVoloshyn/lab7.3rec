@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\qwer\Desktop\lab AP\lab 7\lab7.3 rec\lab7.3 rec\Source.cpp(73): warning C4715: NumbIdentElem: значение возвращается не при всех путях выполнения
+C:\Users\qwer\Desktop\lab AP\lab 7\lab7.3 rec\lab7.3 rec\Source.cpp(86): warning C4715: maxNumbIdentElem: значение возвращается не при всех путях выполнения
+C:\Users\qwer\Desktop\lab AP\lab 7\lab7.3 rec\lab7.3 rec\Source.cpp(59): warning C4715: NumbRowZeros: значение возвращается не при всех путях выполнения
+C:\Users\qwer\Desktop\lab AP\lab 7\lab7.3 rec\lab7.3 rec\Source.cpp(47): warning C4715: ZeroElem: значение возвращается не при всех путях выполнения
+  lab7.3 rec.vcxproj -> C:\Users\qwer\Desktop\lab AP\lab 7\lab7.3 rec\Debug\lab7.3 rec.exe
